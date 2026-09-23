@@ -22,7 +22,7 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="left" valign="top">
+    <td align="left" valign="top" width="50%">
       <b>🌐 Frontend & Fullstack</b><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
@@ -32,8 +32,8 @@
       <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
-    <td align="left" valign="top">
-      <b>⚡ Backend and 🗄️Databases</b><br>
+    <td align="left" valign="top" width="50%">
+      <b>⚡ Backend & 🗄️Databases</b><br>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
@@ -54,7 +54,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left" valign="top">
+    <td align="left" valign="top" width="50%">
       <b>🚀 Lenguajes | Languages</b><br>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -65,7 +65,7 @@
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
     </td>
-    <td align="left" valign="top">
+    <td align="left" valign="top" width="50%">
       <b>☁️ Infra & DevTools</b><br>
          <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
