@@ -13,9 +13,9 @@
 > "Sometimes people don't know what they want until you show it to them." — Steve Jobs
 
 ---
-**Ingeniero de Software con enfoque de producto** especializado en *stacks* basados en *TypeScript*, además de otros como sea *Rust*, *Java* y *Python*. Fundador y Arquitecto Líder de [**Modus Zero**](https://github.com/ModusZero), ecosistema que pretende explorar el futuro del **desarrollo de software** con **Ingeniería de Agentes** (ver más en el [portal](https://moduszero.github.io/landing)).
+**Ingeniero de Software con enfoque de producto** especializado en *stacks* centrados en *TypeScript*, con sólida experiencia práctica en Rust, Java y Python. Fundador y Arquitecto Líder de [**Modus Zero**](https://github.com/ModusZero), ecosistema que pretende explorar el futuro del **desarrollo de software** con **Ingeniería de Agentes** (ver más en el [portal](https://moduszero.github.io/landing)).
 
-**Product-focused Software Engineer** with expertise in TypeScript-based stacks, and others like Rust, Java and Python. Founder and Lead Architect of [**Modus Zero**](https://github.com/ModusZero), an ecosystem that aims to explore the future of **Software Development** with **Agentic Engineering** (see more in the [landing](https://moduszero.github.io/landing)).
+**Product-focused Software Engineer** with expertise in TypeScript-centric stacks, with strong hands-on experience in Rust, Java, and Python. Founder and Lead Architect of [**Modus Zero**](https://github.com/ModusZero), an ecosystem that aims to explore the future of **Software Development** with **Agentic Engineering** (see more in the [landing](https://moduszero.github.io/landing)).
 
 ---
 ### 🛠️ Tecnologías con las que tengo experiencia | Technologies I'm experienced with
@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
     <td align="left" valign="top" width="50%">
-      <b>⚡ Backend & 🗄️Databases</b><br>
+      <b>⚡ Backend, Desktop & 🗄️Databases</b><br>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
