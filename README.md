@@ -15,7 +15,7 @@
 ---
 **Ingeniero de Software con enfoque de producto** especializado en *stacks* basados en *TypeScript*, además de otros como sea *Rust*, *Java* y *Python*. Fundador y Arquitecto Líder de [**Modus Zero**](https://github.com/ModusZero), ecosistema que pretende explorar el futuro del **desarrollo de software** con **Ingeniería de Agentes** (ver más en el [portal](https://moduszero.github.io/landing)).
 
-**Product-based Software Engineer** with expertise in TypeScript-based stacks, and others like Rust, Java and Python. Founder and Lead Architect of [**Modus Zero**](https://github.com/ModusZero), an ecosystem that aims to explore the future of **Software Development** with **Agentic Engineering** (see more in the [landing](https://moduszero.github.io/landing)).
+**Product-focused Software Engineer** with expertise in TypeScript-based stacks, and others like Rust, Java and Python. Founder and Lead Architect of [**Modus Zero**](https://github.com/ModusZero), an ecosystem that aims to explore the future of **Software Development** with **Agentic Engineering** (see more in the [landing](https://moduszero.github.io/landing)).
 
 ---
 ### 🛠️ Tecnologías con las que tengo experiencia | Technologies I'm experienced with
