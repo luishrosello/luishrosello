@@ -1,4 +1,4 @@
-# Hola, Soy Luis Alberto | Hi, I'm Luis Alberto
+# Hola, Soy Luis | Hi, I'm Luis
 
 <p align="center">
    <picture>
