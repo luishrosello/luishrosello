@@ -13,9 +13,9 @@
 > "Sometimes people don't know what they want until you show it to them." — Steve Jobs
 
 ---
-**Arquitecto de Software** & **Desarrollador Web Holístico** especializado en *stacks* basados en *TypeScript*, además de otros como sea *Java* y *Rust*. Fundador y Arquitecto Líder de [**Modus Zero**](https://github.com/ModusZero), ecosistema que pretende explorar el futuro del **desarrollo de software** con **Ingeniería de Agentes** (ver más en el [portal](https://moduszero.github.io/landing)).
+**Ingeniero de Software con enfoque de producto** especializado en *stacks* basados en *TypeScript*, además de otros como sea *Rust*, *Java* y *Python*. Fundador y Arquitecto Líder de [**Modus Zero**](https://github.com/ModusZero), ecosistema que pretende explorar el futuro del **desarrollo de software** con **Ingeniería de Agentes** (ver más en el [portal](https://moduszero.github.io/landing)).
 
-**Software Architect** & **Holistic Web Developer** with expertise in TypeScript-based stacks, and others like Java and Rust. Founder and Lead Architect of [**Modus Zero**](https://github.com/ModusZero), an ecosystem that aims to explore the future of **Software Development** with **Agentic Engineering** (see more in the [landing](https://moduszero.github.io/landing)).
+**Product-based Software Engineer** with expertise in TypeScript-based stacks, and others like Rust, Java and Python. Founder and Lead Architect of [**Modus Zero**](https://github.com/ModusZero), an ecosystem that aims to explore the future of **Software Development** with **Agentic Engineering** (see more in the [landing](https://moduszero.github.io/landing)).
 
 ---
 ### 🛠️ Tecnologías con las que tengo experiencia | Technologies I'm experienced with
@@ -113,12 +113,8 @@
 ### Cómo contactarme | How to contact me
 #### Principales vías | Main ways
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisalbertohedzro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luishrosello)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luishrosello)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luishrosello)
 
-#### Otras | Others
+#### Tarjeta de Presentación | Presentation Card
 [![Gravatar](https://img.shields.io/badge/Gravatar--00599C?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/breadalmostbaf14a44bc)
-
----
-> [!TIP]
-> *Just another dev.*
